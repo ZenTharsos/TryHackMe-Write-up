@@ -63,6 +63,7 @@ find / -type f -group best-group -exec ls -la {} + 2>/dev/null
 - E : this is and extended regular expression.
 
 
+
 ##Task 3: Which file has the SHA1 hash of 9d54da7584015647ba052173b84d45e8007eba94
 
 
