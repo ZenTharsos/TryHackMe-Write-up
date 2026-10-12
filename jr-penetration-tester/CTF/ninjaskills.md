@@ -1,4 +1,6 @@
+
 # TryHackMe - Ninja Skills
+
 <img width="1051" height="585" alt="ninjaskills_room" src="https://github.com/user-attachments/assets/bbb4e058-8ee0-41b9-9c8e-bb10846c921f" />
 
 ### What Is This Challenge About:
