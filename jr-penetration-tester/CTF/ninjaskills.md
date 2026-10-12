@@ -27,7 +27,7 @@ files and investigate their contents.
 <img width="717" height="359" alt="image" src="https://github.com/user-attachments/assets/fde00032-7015-44fb-8cee-20c36cf43e5e" />
 
 
-##Task 1: Which of the above files are owned by the best-group group
+## Task 1: Which of the above files are owned by the best-group group
 
 
 The first Question is to find files that are owned by the **best-group** group.
@@ -47,7 +47,7 @@ find / -type f -group best-group -exec ls -la {} + 2>/dev/null
 - 2>/dev/null : send all the error to a black hole.
 
 
-##Task 2: Which of these files contain an IP address?
+## Task 2: Which of these files contain an IP address?
 
 ```
 [new-user@ip-10-64-171-87 ~]$ find / -type f \( -iname 8v2l -o -iname bny0 -o -iname c4zx -o -iname d8b3 -o -iname fhl1 -o -iname oimo -o -iname pfbd -o -iname rmfx -o -iname srsq  -o -iname uqyw -o -iname v2vb -o -iname x1uy \) -exec  grep -o -E '([0-9]{1,3}\.){3}[0-9]{1,3}' *  {} \; 2>/dev/null
@@ -67,7 +67,7 @@ find / -type f -group best-group -exec ls -la {} + 2>/dev/null
 
 
 
-##Task 3: Which file has the SHA1 hash of 9d54da7584015647ba052173b84d45e8007eba94
+## Task 3: Which file has the SHA1 hash of 9d54da7584015647ba052173b84d45e8007eba94
 
 
 
