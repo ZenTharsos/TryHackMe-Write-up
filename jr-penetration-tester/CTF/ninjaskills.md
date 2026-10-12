@@ -47,8 +47,9 @@ find / -type f -group best-group -exec ls -la {} + 2>/dev/null
 
 ##Task 2: Which of these files contain an IP address?
 
+```
 [new-user@ip-10-64-171-87 ~]$ find / -type f \( -iname 8v2l -o -iname bny0 -o -iname c4zx -o -iname d8b3 -o -iname fhl1 -o -iname oimo -o -iname pfbd -o -iname rmfx -o -iname srsq  -o -iname uqyw -o -iname v2vb -o -iname x1uy \) -exec  grep -o -E '([0-9]{1,3}\.){3}[0-9]{1,3}' *  {} \; 2>/dev/null
-
+```
 
 <img width="857" height="191" alt="ip_20-10-13_12-14-04" src="https://github.com/user-attachments/assets/da313b09-1c13-4d2f-acf6-5afb4eed58da" />
 
