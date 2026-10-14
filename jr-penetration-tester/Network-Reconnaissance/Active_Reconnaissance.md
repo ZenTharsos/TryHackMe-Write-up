@@ -2,6 +2,7 @@
 # Active Reconnaissance
 
 <img width="600" height="600" alt="66704dd0e54a1f39bff7b1a1-1735574230785" src="https://github.com/user-attachments/assets/122ae7f3-8d6a-4182-bbdc-07166f00ae8f" />
+
 Learn how to use simple tools such as traceroute, ping, telnet, and a web browser to gather information.
 
 
@@ -330,7 +331,7 @@ These tools are simple individually, but combining them gives you a structured p
 
 ### Quick Reference
 
-<-img width="1121" height="522" alt="image" src="https://github.com/user-attachments/assets/5b25b862-cd76-4c2e-ac90-19ace8d68f2e" />
+<img width="1121" height="522" alt="image" src="https://github.com/user-attachments/assets/5b25b862-cd76-4c2e-ac90-19ace8d68f2e" />
 <img width="1117" height="237" alt="image" src="https://github.com/user-attachments/assets/89a15f0d-081d-4cbf-baad-d6d2cd314f91" />
 
 
